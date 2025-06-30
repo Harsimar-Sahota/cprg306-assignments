@@ -20,10 +20,14 @@ export default function HomePage() {
       <p>
         Go to <Link href="/week-5">Week 5 Assignment</Link>
       </p>
+
       <p>
         Go to <Link href="/week-6">Week 6 Assignment</Link>
       </p>
 
+      <p>
+        Go to <Link href="/week-7">Week 7 Assignment</Link>
+      </p>
     </main>
   );
 }
